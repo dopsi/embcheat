@@ -1,0 +1,4 @@
+sphinx
+sphinx-immaterial
+sphinx-autobuild
+sphinxcontrib-wavedrom
